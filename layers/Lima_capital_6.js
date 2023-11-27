@@ -1,0 +1,1 @@
+var json_Lima_capital_6 = {"type":"FeatureCollection","name":"Lima_capital_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"poblacion total":33726000.0,"año fundacion":"1821-07-28","idioma oficial":"castellano","moneda":"sol"},"geometry":{"type":"Point","coordinates":[-76.9046781629,-11.2131337279]}}]}
